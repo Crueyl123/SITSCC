@@ -7,7 +7,7 @@ SITSCC:Change Caption for Satellite Images Time Series
 <br
 
 
-![](Figs/model.png)
+![](figs/model.png)
 
 *This research has been conducted at the [School of Computer Science, Beijing Institute of Technology](https://cs.bit.edu.cn/).*
     
