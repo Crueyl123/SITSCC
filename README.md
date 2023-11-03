@@ -1,6 +1,6 @@
 <h1 align="center">SITSCC:Change Caption for Satellite Images Time Series</h1>
 
-<h3 align="center"> Wei Peng, Ping Jian, and Zhuqing Mao</a></h3>
+<h3 align="center"> Wei Peng, Ping Jian, Zhuqing Mao,and Yingying Zhao</a></h3>
 <br
 
 
